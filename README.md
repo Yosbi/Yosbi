@@ -5,7 +5,7 @@ I am Yosbi, a computer scientist who is passionate about open-source philosophy 
 I also enjoy solving challenging algorithms and building things.
 
 - 🔭 I’m currently researching and developing brand new products and technologies, working specifically in high-performance algorithms, machine learning, bayesian networks, embedded computing (IoT), and mobile development (mainly native iOS and Android) at Johnson Controls.
-- 🌱 I’m currently learning about backend development using Spring Boot to complement the IoT (embedded programing).
+- 🌱 I’m currently learning about backend development using Spring Boot to complement the IoT (embedded programming).
 - 📫 You can reach me at: Yosbito@gmail.com
 - ⚡ Fun fact: I drink coffee and do stuff...
 
