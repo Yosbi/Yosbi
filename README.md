@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Yosbi, a computer scientist who is passionate about open-source philosophy (open-source evangelist) and who has several areas of interest, some of them are: Linux and Android operating systems, A.I. applied to IoT, game engines and graphic programming, game development (and playing games too), and also I like to develop mobile (Android and iOS) apps and backends.
+I am Yosbi, a computer scientist who is passionate about open-source philosophy (open-source evangelist) and who has several areas of interest, some of them are: Linux and Android operating systems, A.I. applied to IoT, develop mobile apps (Android and iOS), game engines and graphic programming, game development (and playing games too).
 
 I also enjoy solving challenging algorithms and building things.
 
